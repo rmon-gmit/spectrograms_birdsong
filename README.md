@@ -1,5 +1,5 @@
 
-# Notebook viewable at: 
+# Report viewable at: 
 https://nbviewer.jupyter.org/github/rmon-gmit/spectrograms_birdsong/blob/master/report/birdsong_spectrograms.ipynb
 
 # spectrograms_birdsong
